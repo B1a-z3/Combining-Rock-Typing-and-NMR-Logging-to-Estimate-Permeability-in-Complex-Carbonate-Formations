@@ -66,7 +66,7 @@ The full pipeline is implemented in `Research.ipynb` and follows these stages:
 - Average all NMR log measurements within each core plug's depth interval `[D_from_ft, D_to_ft]`
 - Enforce a one-to-one mapping between each core plug and its closest valid log interval
 - Removes ambiguous or duplicate matches
-- **Output:** 472 matched samples (405 Arbuckle + 289 Cutter after overlap removal)
+- **Output:** 472 matched samples (385 Arbuckle + 87 Cutter)
 
 ### 3. Feature Engineering
 The following petrophysical descriptors are computed:
