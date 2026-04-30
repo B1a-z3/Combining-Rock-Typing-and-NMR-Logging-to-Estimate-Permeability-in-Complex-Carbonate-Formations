@@ -19,10 +19,11 @@ The result: prediction error (RMSE on log₁₀ scale) drops from **1.212** (glo
 ```
 .
 ├── Research.ipynb          # Main analysis notebook (full pipeline)
-├── log_arbuckle.csv        # NMR well log data — Wellington KGS 1-32 (1,997 rows, 32 cols)
-├── log_cutter.csv          # NMR well log data — Cutter KGS-1 (5,173 rows, 26 cols)
-├── arbucklecoreperm.csv    # Core plug measurements — Arbuckle well (405 samples)
-├── cuttercoreperm.csv      # Core plug measurements — Cutter well (289 samples)
+├── Data
+   ── log_arbuckle.csv        # NMR well log data — Wellington KGS 1-32 (1,997 rows, 32 cols)
+   ── log_cutter.csv          # NMR well log data — Cutter KGS-1 (5,173 rows, 26 cols)
+   ── arbucklecoreperm.csv    # Core plug measurements — Arbuckle well (405 samples)
+   ── cuttercoreperm.csv      # Core plug measurements — Cutter well (289 samples)
 └── README.md               # This file
 ```
 
