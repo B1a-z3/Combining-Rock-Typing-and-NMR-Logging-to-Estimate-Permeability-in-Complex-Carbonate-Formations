@@ -1,0 +1,29 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Project: Combining Rock Typing and NMR Logging to Estimate Permeability
+#          in Complex Carbonate Formations
+# Author:  Nihal Malavalli Lokesh
+# Course:  DASC 5391 – Data Science Applications, Kansas State University
+#
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core numerical computing
+numpy>=1.24.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
+
+# Machine learning (K-means clustering, train/test split, KFold CV)
+scikit-learn>=1.3.0
+
+# Statistical modelling (OLS regression via statsmodels)
+statsmodels>=0.14.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
