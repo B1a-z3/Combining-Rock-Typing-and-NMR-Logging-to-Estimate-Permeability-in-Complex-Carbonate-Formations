@@ -1,7 +1,7 @@
 # Combining Rock Typing and NMR Logging to Estimate Permeability in Complex Carbonate Formations
 
 
-**Author:** Nihal Malavalli Lokesh 
+**Author:** Nihal Malavalli Lokesh |
 **Institution:** University of Texas at Arlington
 
 ---
