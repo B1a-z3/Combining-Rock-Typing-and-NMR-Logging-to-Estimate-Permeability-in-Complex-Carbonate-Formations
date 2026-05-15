@@ -185,6 +185,3 @@ pip install numpy pandas matplotlib scikit-learn statsmodels jupyter
 
 ---
 
-## License
-
-This project is submitted as academic coursework for DASC 5391 at Kansas State University.
