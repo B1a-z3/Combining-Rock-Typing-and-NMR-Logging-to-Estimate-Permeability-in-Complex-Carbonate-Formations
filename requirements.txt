@@ -3,7 +3,6 @@
 # Project: Combining Rock Typing and NMR Logging to Estimate Permeability
 #          in Complex Carbonate Formations
 # Author:  Nihal Malavalli Lokesh
-# Course:  DASC 5391 – Data Science Applications, Kansas State University
 #
 # Install with:  pip install -r requirements.txt
 # ─────────────────────────────────────────────────────────────────────────────
