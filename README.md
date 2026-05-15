@@ -1,8 +1,8 @@
 # Combining Rock Typing and NMR Logging to Estimate Permeability in Complex Carbonate Formations
 
-**Course:** DASC 5391 – Data Science Applications  
-**Author:** Nihal Malavalli Lokesh | Student ID: 1002200461  
-**Institution:** Kansas State University
+
+**Author:** Nihal Malavalli Lokesh 
+**Institution:** University of Texas at Arlington
 
 ---
 
