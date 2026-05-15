@@ -118,15 +118,15 @@ where `ε = 1e-12` prevents undefined values. This penalizes relative errors uni
 
 | Group | RMSE Train | RMSE Test | R² Train | R² Test |
 |-------|-----------|----------|---------|--------|
-| No Clustering | 1.062 | 1.212 | −0.121 | −0.163 |
-| Cluster 1 | 0.451 | 0.374 | 0.151 | 0.077 |
-| Cluster 2 | 0.432 | 0.491 | 0.084 | 0.231 |
-| Cluster 3 | 0.665 | 0.761 | 0.007 | −0.088 |
-| Cluster 4 | 0.679 | 0.635 | 0.001 | −0.137 |
-| Cluster 5 | 0.851 | 0.899 | −0.051 | −0.156 |
-| Cluster 6 | 0.715 | 0.918 | 0.122 | −0.186 |
-| Cluster 7 | 0.733 | 1.367 | 0.013 | −0.260 |
-| Cluster 8 | 0.321 | 0.839 | −2.280 | 0.167 |
+| No Clustering | 1.062 | 1.212 | 0.309 | −0.100 |
+| Cluster 1 | 0.451 | 0.374 | 0.540 | 0.457 |
+| Cluster 2 | 0.432 | 0.491 | 0.375 | 0.598 |
+| Cluster 3 | 0.665 | 0.761 | 0.342 | 0.210 |
+| Cluster 4 | 0.679 | 0.635 | 0.387 | 0.656 |
+| Cluster 5 | 0.851 | 0.899 | 0.354 | 0.067 |
+| Cluster 6 | 0.715 | 0.918 | 0.484 | 0.719 |
+| Cluster 7 | 0.733 | 1.367 | 0.448 | −1.453 |
+| Cluster 8 | 0.321 | 0.839 | 0.584 | 0.0.94 |
 
 The global model's negative R² (−0.163) confirms it performs **worse than predicting the mean**. Cluster-specific models reduce test RMSE(log₁₀) by up to **69%** for the best-performing cluster.
 
